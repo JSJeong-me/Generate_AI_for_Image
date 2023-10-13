@@ -43,3 +43,58 @@
 ## 2. Portfolio 작성(실습)
 - 학습 내용 및 생성 이미지를 바탕으로 포트폴리오 작성
 
+
+
+# 나만의 모델 만들기 – LoRA 실습 1
+
+## 1. Checkpoint, LoRA, Embedding, Hyper Network, VAE 정의
+- **Checkpoint**: 학습 중간의 모델 상태를 저장하는 파일
+- **LoRA (Latent Representational Analysis)**: 레이턴트 공간을 활용하는 모델
+- **Embedding**: 카테고리 데이터를 연속적 벡터로 변환
+- **Hyper Network**: 하나의 네트워크가 다른 네트워크의 가중치를 생성
+- **VAE (Variational Autoencoder)**: 생성과 인식을 모두 수행하는 생성 모델
+
+## 2. LoRA 학습 데이터 준비
+- 데이터셋 선택
+- 데이터 전처리
+
+---
+---
+---
+
+# 나만의 모델 만들기 - LoRA 실습 2
+
+## 1. LoRA 모델 학습
+- 학습 알고리즘 설정
+- 학습 진행
+
+## 2. LoRA 활용 Prompt 가이드
+- 프롬프트 설정 방법
+- 다양한 스타일과 효과 적용
+
+## 3. txt2img 이미지 생성 파라미터 활용
+- **Sampler**: 샘플링 방법
+- **CFG (Configuration File)**: 설정 파일
+- **VAE**: 생성 모델
+- **Clip skip**: 학습 과정에서 특정 단계를 건너뛰기
+
+---
+
+# 비슷한 이미지 찾기(모델 평가)
+
+## 1. Vector Similarity 평가방법
+- 코사인 유사도, 유클리드 거리 등
+
+## 2. [scipy.spatial – Distance metrics 활용](https://docs.scipy.org/doc/scipy/reference/spatial.html)
+- 다양한 거리 측정 방법 활용
+
+---
+
+# 이미지 Caption – 이미지로부터 텍스트 생성
+
+## 1. Visual Attention을 활용한 이미지 Captioning
+- Attention 메커니즘을 사용한 캡션 생성
+
+## 2. 이미지 Caption 모델 학습 및 활용
+- 데이터 준비
+- 학습 및 캡션 생성
