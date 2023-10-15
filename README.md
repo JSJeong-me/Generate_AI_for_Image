@@ -1,5 +1,5 @@
 ---
-### 1일차 강의 내용
+### 1일차 강의 내용 - 강의 교안: https://buly.kr/6idfIp6 - 실습 교안: https://buly.kr/H6eNAyW
 ---
 
 # 생성형AI와 이미지 생성
