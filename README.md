@@ -1,6 +1,6 @@
 ---
 ### 1일차 강의 내용 
-- 강의 교안: https://zrr.kr/yLdB
+- 강의 교안: https://zrr.kr/AWr3
 - 실습 교안: https://zrr.kr/yI8n
 ---
 
