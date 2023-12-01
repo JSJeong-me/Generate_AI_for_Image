@@ -2,7 +2,7 @@
 ### 1일차 강의 내용 
 - 강의 교안: https://zrr.kr/AWr3
 - 실습 교안: https://zrr.kr/yI8n
-- Issue 현황 분석: [Top 50 GenAI Web Product](https://a16z.com/how-are-consumers-using-generative-ai/)
+- Issue 현황 분석: [Top 50 GenAI Web Products](https://a16z.com/how-are-consumers-using-generative-ai/)
 ---
 
 # 생성형AI와 이미지 생성
