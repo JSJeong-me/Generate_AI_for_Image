@@ -2,8 +2,8 @@
 ### 1일차 강의 내용 
 - [논 문(Paper)](https://drive.google.com/file/d/13V4wqjQAByZp5Lq4UXhIvOXFqzzAnB77/view?usp=sharing)
 - [한국인터넷정보학회 2024년 춘계학술발표대회 발표자료](https://drive.google.com/file/d/1WxiDA3VelCh6gc995qfFO-VL5QNTZreM/view?usp=sharing)
-- [강의 교안](https://drive.google.com/file/d/1A--g3f25G53E1Y6ubLJcMxhaF6bOseFV/view?usp=sharing)
-- [실습 교안](https://zrr.kr/bKKu)
+- [강의 교안]()
+- [실습 교안]()
 - [실습 Prompts](https://docs.google.com/spreadsheets/d/14LMF7gTR0gnUCnpdWsCziMlhCCZuH_fisxruUM9oFdI/edit?usp=sharing)
 - Issue 현황 분석: [Top 50 GenAI Web Products](https://a16z.com/how-are-consumers-using-generative-ai/)
 
